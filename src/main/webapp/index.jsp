@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to cloudgist project updated version with webhook!!</h2>
+<h2>Done with Jenkins Pipeline!!</h2>
 </body>
 </html>
